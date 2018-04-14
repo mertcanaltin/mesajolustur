@@ -1,0 +1,10 @@
+F:\11.Hafta\MesajOlustur\MesajOlustur\bin\Debug\MesajOlustur.exe.config
+F:\11.Hafta\MesajOlustur\MesajOlustur\bin\Debug\MesajOlustur.exe
+F:\11.Hafta\MesajOlustur\MesajOlustur\bin\Debug\MesajOlustur.pdb
+F:\11.Hafta\MesajOlustur\MesajOlustur\bin\Debug\MesajOlustur.xml
+F:\11.Hafta\MesajOlustur\MesajOlustur\obj\Debug\MesajOlustur.Form1.resources
+F:\11.Hafta\MesajOlustur\MesajOlustur\obj\Debug\MesajOlustur.Resources.resources
+F:\11.Hafta\MesajOlustur\MesajOlustur\obj\Debug\MesajOlustur.vbproj.GenerateResource.Cache
+F:\11.Hafta\MesajOlustur\MesajOlustur\obj\Debug\MesajOlustur.exe
+F:\11.Hafta\MesajOlustur\MesajOlustur\obj\Debug\MesajOlustur.xml
+F:\11.Hafta\MesajOlustur\MesajOlustur\obj\Debug\MesajOlustur.pdb
